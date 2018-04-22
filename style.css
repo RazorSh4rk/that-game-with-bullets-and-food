@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+}
+#c {
+    cursor: none;
+}
+.modal{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 0;
+    top: 150px;
+    background: black;
+    color: aqua;
+}
+#gameover{
+    margin-top: 100px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    position: absolute;
+    left: 170px;
+    bottom: 50px;
+}
+#t{
+    margin-top: 100px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+body{
+    background: #222222;
+}
